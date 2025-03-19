@@ -1,0 +1,3 @@
+Categories with the highest reviews should be prioritised for discounts to maximize on sales. Customers tend to lean towards products that have higher reviews.
+A nice strategy to improve sales would be to incoorporate more discount not in terms of percentage rather in terms of number of times a sale occurs in a span of time. having higher percentage discounta minimal times isn't productive. Having 50% discounts during big holidays minimises losses , increases sales and increases customer engagement. Inform customers about leaving reviews.
+Some annomalies include having very high percentage of discounts,this may lead to losses.
